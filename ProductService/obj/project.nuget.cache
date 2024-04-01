@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EFMmVNRkUIGXbAp9YemoatKdxBuDL5MfCqpcQHVG/b4M1gc/ihzxfpzUlPYY3Hp33V3dI1Kp4iL9Tq1V8aX/g==",
+  "success": true,
+  "projectFilePath": "D:\\Tech Resources\\CQRS\\ProductService\\ProductService\\ProductService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naimul\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\naimul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
